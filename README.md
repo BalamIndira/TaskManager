@@ -171,6 +171,6 @@ You can add screenshots of:
 
 ## 👩‍💻 Author
 
-Developed by **[Your Name]**
+Developed by Indira Priyadarsini
 
 This project was created as part of a full-stack development learning journey and demonstrates practical implementation of modern web development technologies.
